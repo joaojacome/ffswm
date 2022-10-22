@@ -1,0 +1,16 @@
+{
+    "name": "joaojacome/ffswm",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Joao Jacome",
+            "email": "github@joaojaco.me"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "FFSWM\\": "src/"
+        }
+    }
+}
